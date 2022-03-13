@@ -27,7 +27,7 @@ delayAsync(timeout, ct);
 Parameters:
 
 * `timeout` is a `Number` passed directly to [`setTimeout()`](https://html.spec.whatwg.org/multipage/timers-and-user-prompts.html#dom-settimeout) as its `timeout` (second) argument.
-* `ct` is an [`AbortSignal`](https://dom.spec.whatwg.org/#abortsignal) which can be used to reject the returned `Promise` early with a `new `[`DOMException`]()https://webidl.spec.whatwg.org/#idl-DOMException`(…, `[`'AbortError'`](https://webidl.spec.whatwg.org/#aborterror)`)`.
+* `ct` is an [`AbortSignal`](https://dom.spec.whatwg.org/#abortsignal) which can be used to reject the returned `Promise` early with a `new `[`DOMException`](https://webidl.spec.whatwg.org/#idl-DOMException)`(…, `[`'AbortError'`](https://webidl.spec.whatwg.org/#aborterror)`)`.
 
 Returns:
 
