@@ -6,7 +6,7 @@ Include this in your userscript using [`@require`](https://wiki.greasespot.net/M
 // ==UserScript==
 // @name example
 // @version 1.0
-// @require https://github.com/binki/binki-userscript-delay-async/raw/master/index.js
+// @require https://github.com/binki/binki-userscript-delay-async/raw/master/binki-userscript-delay-async.js
 // ==UserScript==
 
 (async () => {
