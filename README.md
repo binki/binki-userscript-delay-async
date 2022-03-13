@@ -31,4 +31,4 @@ Parameters:
 
 Returns:
 
-A `Promise` which will resolve to undefined after the delay (negative or omitted delay is treated as `0`) or is rejected with `new `[`DOMException`]()https://webidl.spec.whatwg.org/#idl-DOMException`(…, `[`'AbortError'`](https://webidl.spec.whatwg.org/#aborterror)`)` if a passed in `ct` was aborted.
+A `Promise` which will resolve to undefined after the delay (negative or omitted delay is treated as `0`) or is rejected with `new `[`DOMException`](https://webidl.spec.whatwg.org/#idl-DOMException)`(…, `[`'AbortError'`](https://webidl.spec.whatwg.org/#aborterror)`)` if a passed in `ct` was aborted.
