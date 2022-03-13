@@ -1,6 +1,6 @@
 ## Usage
 
-Include this in your userscript using [`@require`](https://wiki.greasespot.net/Metadata_Block#.40require). It is recommended to browse to a specific version of the script and include the hash instead of referring to `master`.
+Include this in your userscript using [`@require`](https://wiki.greasespot.net/Metadata_Block#.40require). It is recommended to [use a permalink](https://docs.github.com/en/repositories/working-with-files/using-files/getting-permanent-links-to-files) instead of referring to `master`.
 
 ```js
 // ==UserScript==
